@@ -1,12 +1,12 @@
-import sklearn.datasets
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-import sklearn.linear_model
-import sklearn.model_selection
-from sklearn.metrics import mean_squared_error, r2_score
-import sklearn.neighbors
-from sklearn.model_selection import cross_val_score
-import sklearn.tree
-from sklearn.ensemble import RandomForestRegressor
+sklearn
+numpy
+pandas
+matplotlib
+seaborn
+sklearn.linear_model
+sklearn.model_selection
+sklearn.metrics
+sklearn.neighbors
+sklearn.model_selection
+klearn.tree
+sklearn.ensemble
