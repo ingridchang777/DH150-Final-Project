@@ -9,5 +9,5 @@ Below are the contents of the repository
 - README.md: description of the repository
 - requirements.text: all modules needed to run the program
 - student-mat.csv: the dataset
-- DH150Final: Jupyter Notebook of the project
-- DH150ProjectBinder: Binder to the project for direct interaction
+- DH150Final.ipynb: Jupyter Notebook of the project
+- BinderLink: Binder access to the project for direct interaction
