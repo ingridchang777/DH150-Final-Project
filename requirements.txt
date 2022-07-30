@@ -3,10 +3,3 @@ numpy
 pandas
 matplotlib
 seaborn
-sklearn.linear_model
-sklearn.model_selection
-sklearn.metrics
-sklearn.neighbors
-sklearn.model_selection
-klearn.tree
-sklearn.ensemble
